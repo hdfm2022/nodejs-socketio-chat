@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-socketio-chat",
+  "version": "1.0.0",
+  "description": "Baseado no vídeo da Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdfm2022/nodejs-socketio-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdfm2022/nodejs-socketio-chat/issues"
+  },
+  "homepage": "https://github.com/hdfm2022/nodejs-socketio-chat#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  }
+}
